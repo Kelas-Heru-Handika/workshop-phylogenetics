@@ -26,3 +26,5 @@ conda config --add channels conda-forge
 ## Install fastp
 
 mamba install fastp
+
+mamba install spades
